@@ -1,0 +1,1 @@
+!(function(){(function(e,n){if(typeof e.funnelish!=="object"||!e.funnelish.funnel.id)return;var t="https://pixel.wetracked.io";var i=n.createElement("script");var a=e.funnelish.step.domain_name.toLowerCase();var r=e.funnelish.funnel.id;i.src="".concat(t,"/funnel/").concat(a,"/").concat(r,"/events.js");n.head.insertBefore(i,n.head.firstChild)})(window,document);})();
